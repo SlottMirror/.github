@@ -1,1 +1,1 @@
-! (slott.jpg)
+(slott.jpg)
